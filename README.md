@@ -169,4 +169,8 @@ This project is a standard token contract developed on the Soroban platform. Sor
 - Deployed!
 CDRPGQHJMHSLTXRN44KYLAGCOBH7GU4DLDIN5BPF7FZFWPYWAXH66ZDJ
   # Result
-  <img src="/contract.png" alt="Profil Resmi" width="400"/>
+  <img src="/contract.png" alt="Profil Resmi" width="500"/>
+
+  # Frontend
+  <img src="/stellar-frontend/frontendwal.png" width="500"/>
+
