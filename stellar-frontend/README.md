@@ -1,6 +1,7 @@
 ## Stellar Token Management Panel
 A user-friendly, modern dashboard interface for token management on the Stellar network. This panel allows you to easily perform token transfer, burning, staking and vesting operations by interacting with Soroban smart contracts.
-Show Image
+
+## <img src="frontendwal.png" alt="Profil Resmi" width="500"/>
 
 ## 🌟 Features
 
@@ -93,3 +94,7 @@ Enter the address of the account you want to freeze or unfreeze in the relevant 
 Click the "Freeze Account" or "Unfreeze Account" button
 Confirm the transaction in your Freighter wallet
 
+## Photos
+ # <img src="frontend.png" alt="Profil Resmi" width="500"/>
+ # <img src="walletconnection.png" alt="Profil Resmi" width="500"/>
+ # <img src="connection.png" alt="Profil Resmi" width="500"/>
